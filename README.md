@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 你好，我是 Gong（Gavin Q Blake）
 
-<!--
-**GavinQBlake/GavinQBlake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+全栈开发者，独立经营。写代码、管服务器，顺手经营一家中式女装生意。
 
-Here are some ideas to get you started:
+## 在做的事
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **个人 AI 大脑** — 本地部署的个人 AI 助手：长期记忆、语音对话、远程控机
+- 👗 **百里红中式女装** — 喜妈妈婚宴装 / 妈妈婚宴礼服 / 改良旗袍，深圳源头工厂
+- 📊 **量化研究** — 策略回测与纸面推演，拿数据说话
+- 🖥️ **服务器运维** — 腾讯云 Ubuntu，稳定落地
+
+## 技术栈
+
+`Python` `Node.js` `Vanilla JS` `SQLite` `FastAPI` `Tauri` `PWA` `Git`
+
+## 做事原则
+
+- 用数据说话，不做应声虫
+- 改完必须测试，PASS 要有证据支撑
+- 简单稳定优先，增量演进，不推倒重来
+
+📍 深圳
